@@ -1,2 +1,2 @@
-To  Do app using html,css and javascript and much more 
+To  Do app using html,css and javascript 
 
